@@ -9,7 +9,8 @@
 > [!WARNING]
 > Disclaimer this only for education prupose!
 
-> [!Requirements] 
+> [!Requirements]
+
 > [Trollapps](https://github.com/TheResonanceTeam/TrollApps)
 
 > [!HOW TO USE]
